@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://studio-masajbrasov.ro/sitemap.xml
+Sitemap: https://massagetherapybylena.ro/sitemap.xml
